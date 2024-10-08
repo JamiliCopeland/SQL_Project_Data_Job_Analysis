@@ -60,7 +60,7 @@ Breakdown of Data Analyst Jobs in 2023:
 
 **Below is a bar chart that I created in Microsoft Excel to highlight these top paying roles graphically*
 
-![TopPayingDataAnalystJobs](project_sql\assets\Top_Paying_Data_Analyst_Jobs_2.png)
+![TopPayingDataAnalystJobs](assets\Top_Paying_Data_Analyst_Jobs_2.png)
 
 ### 2. Skills for Top Paying Jobs
 Certain skills will be required to obtain a top-paying Data Analyst job. In order to see what these skills are, I combined the skills data with the job postings data.
@@ -104,7 +104,7 @@ There were 26 unique skills listed amongst 42 job postings, with the most popula
 
 *Below is a bar chart I created in Microsoft Excel to show 10 of the 26 unique skills amongst the 42 job postings*.
 
-![NumberOfJobPostingsPerSkill](project_sql\assets\Number_of_Job_Postings_Per_Skill_2.png)
+![NumberOfJobPostingsPerSkill](assets\Number_of_Job_Postings_Per_Skill_2.png)
 
 ### 3. Top 5 In-Demand Skills for Data Analysts
 In this query, instead of focusing on skills requried specifically for high-paying jobs, I identified the most requested skills in general for work-from-home Data Analyst roles that were posted on LinkedIn. This allows job-seekers to get an idea of what they skills to obtain to land a Data Analyst role in general, even if it's not a high-paying one.
